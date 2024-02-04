@@ -1,4 +1,5 @@
 <img src="https://media.tenor.com/JUVp-pb-b8AAAAAi/hola-hello.gif" width="100" height="84" alt="Hola Hello Sticker - Hola Hello Lyona Stickers" style="max-width: 300px; background-color: unset;">
+
 I'm Miguel, a passionate Full Stack Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences. 
 
 
