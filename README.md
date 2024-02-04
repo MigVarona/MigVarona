@@ -1,18 +1,29 @@
-![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
-### 👋 Hi there 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+👋 Hello, I'm [Your Name], a passionate Full Stack Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences. My expertise lies in JavaScript, Next.js, React, Tailwind, and Express.js.
 
+🚀 **Skills:**
+- Frontend: React, Next.js, HTML, CSS (including Tailwind)
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
-- 🍔 Founder TasteBuds.
-- ⚡ Currently Working at ThoughtWorks.
-- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
+💼 **Experience:**
+I have [X years] of hands-on experience in the software development industry. In my previous roles, I've successfully contributed to the development of robust and high-performance applications. I excel in collaborating with cross-functional teams and thrive in dynamic, fast-paced environments.
 
-<hr />
+🔧 **Tech Stack:**
+- JavaScript (ES6+)
+- React.js / Next.js
+- Tailwind CSS
+- Express.js
+- RESTful API design and development
+- MongoDB / MySQL
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+🌐 **Portfolio:**
+Check out some of my projects on my [portfolio website](your-portfolio-link).
 
-### 📫 Reach me at 
-![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
+📫 **Let's Connect:**
+I'm currently seeking new opportunities to further enhance my skills and contribute to exciting projects. Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](your-linkedin-profile).
+
+👨‍💻 **GitHub Stats:**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=dark)](https://github.com/your-username)
+
+Let's code something amazing together! 💻✨
