@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="22619393" data-share-method="host" data-aspect-ratio="0.96875" data-width="100%"><a href="https://tenor.com/view/hola-gatito-gif-22619393">Hola Gatito Sticker</a>from <a href="https://tenor.com/search/hola+gatito-stickers">Hola Gatito Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/DurVWqW9hpAAAAAi/hola-gatito.gif" width="249.6" height="256" alt="Hola Gatito Sticker - Hola Gatito Stickers" style="max-width: 280px; background-color: unset;">
 
 👋 Hello, I'm Miguel, a passionate Full Stack Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences. 
 
