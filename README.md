@@ -8,12 +8,12 @@
 
 
 🌐 **Portfolio:**
-Check out some of my projects on my [portfolio website](your-portfolio-link).
+Check out some of my projects on my [portfolio website](https://nextmusic-eight.vercel.app/).
 
 📫 **Let's Connect:**
 I'm currently seeking new opportunities to further enhance my skills and contribute to exciting projects. Feel free to reach out to me via [migvaronag@gmail.com](migvaronag@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-varona-555643284/).
 
 👨‍💻 **GitHub Stats:**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=dark)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-Migvarona&show_icons=true&count_private=true&hide=issues&theme=dark)](https://github.com/Migvarona)
 
 Let's code something amazing together! 💻✨
