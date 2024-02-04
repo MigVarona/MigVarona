@@ -6,6 +6,9 @@
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
 
+💼 **Experience:**
+With [10] years as CEO stint at [Carmencita Film Lab](https://carmencitafilmlab.com/), "My experience also includes working as a photographer throughout my career.
+
 
 🌐 **Portfolio:**
 Check out some of my projects [next-play](https://nextmusic-eight.vercel.app/) // [nasa-api](https://nasapi.vercel.app/) // [Viva-film](https://migvarona.github.io/vivafilm/)..
