@@ -18,4 +18,4 @@ Check out some of my projects [next-play](https://nextmusic-eosin.vercel.app/) /
 📫 **Let's Connect:**
 I'm currently seeking new opportunities to further enhance my skills and contribute to exciting projects. Feel free to reach out to me via [migvaronag@gmail.com](migvaronag@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-varona-555643284/).
 
-Let's code something amazing together! 💻✨
+
