@@ -14,7 +14,8 @@ With [10] years as CEO stint at [Carmencita Film Lab](https://carmencitafilmlab.
 
 🌐 **Portfolio:**
  [Check out some of my projects](https://miguelvarona.dev/)
+ 
 📫 **Let's Connect:**
-Email [migvaronag@gmail.com](migvaronag@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-varona-555643284/).
+Email [migvaronag@gmail.com](mailto:migvaronag@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguel-varona-555643284/).
 
 
