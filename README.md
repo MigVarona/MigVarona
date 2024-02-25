@@ -1,4 +1,4 @@
-I'm Miguel, a passionate Full Stack Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences. 
+I'm Miguel, a passionate Frontend Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences. 
 
 
 🚀 **Skills:**
