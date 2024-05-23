@@ -19,5 +19,7 @@ Email [migvaronag@gmail.com](mailto:migvaronag@gmail.com) or connect with me on 
 
 ![Miguel Varona GitHub ](https://github-readme-stats.vercel.app/api?username=MigVarona&show_icons=true&theme=radical)
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/MigVarona"><img src="https://camo.githubusercontent.com/MigVarona" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/%7Blodhik9%7D/count.svg" style="max-width: 100%;"></a></p>
+
 
 
