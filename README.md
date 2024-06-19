@@ -7,8 +7,7 @@ I'm Miguel, a passionate Frontend Developer with a proven track record in creati
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
 
-💼 **Experience:**
-With [10] years as CEO stint at [Carmencita Film Lab](https://carmencitafilmlab.com/), "My experience also includes working as a photographer throughout my career.
+
 
 
 🌐 **Portfolio:**
