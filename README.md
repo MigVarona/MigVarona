@@ -10,6 +10,6 @@ Email [migvaronag@gmail.com](mailto:migvaronag@gmail.com) or connect with me on 
 
 ![Miguel Varona GitHub ](https://github-readme-stats.vercel.app/api?username=MigVarona&show_icons=true&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=Migvarona&label=Profile%20Vie&color=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Migvarona&label=Profile%20View&color=5&pretty=false)](https://visitcount.itsvg.in)
 
 
