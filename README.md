@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/w9MGGwt32PGK9M4Dn5" width="480" height="401" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/theoffice-w9MGGwt32PGK9M4Dn5">via GIPHY</a></p>
 
 
 
